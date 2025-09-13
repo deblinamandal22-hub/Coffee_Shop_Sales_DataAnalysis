@@ -3,7 +3,7 @@
 
 ## Overview
 
-The **Coffee Sales Data Analysis** provides a detailed overview of coffee sales performance, trends, and insights. Built entirely using **Power BI**, this dashboard helps visualize key sales metrics such as revenue, sales volume, product performance, and regional breakdowns. It is designed to assist sales managers and business owners in making data-driven decisions to improve sales strategy and optimize inventory.
+The **Coffee Sales Data Analysis** provides a detailed overview of coffee sales performance, trends, and insights. Built entirely using **MS Excel**, this dashboard helps visualize key sales metrics such as revenue, sales volume, product performance, and regional breakdowns. It is designed to assist sales managers and business owners in making data-driven decisions to improve sales strategy and optimize inventory.
 
 ## Features
 
@@ -16,7 +16,7 @@ The **Coffee Sales Data Analysis** provides a detailed overview of coffee sales 
 
 ## Technologies Used
 
-- **MS EXCEL**: Utilized for data cleaning, analysis, and creating the dashboard using charts, pivot tables, and slicers.
+- **MS Excel**: Utilized for data cleaning, analysis, and creating the dashboard using charts, pivot tables, and slicers.
 
 ## Objective of this Analysis
 
@@ -43,9 +43,8 @@ The main objective of this project is to analyze retail sales data to gain the a
 - **How do sales vary by product category and type?**: Results are showed in the Report Chart.
 
 ### Mock-up Dashboard
-![mock up dashboard_Coffee_shop_sales](https://github.com/Yashwanth-GS/Coffee_Shop_Sales_DataAnalysis/blob/911f5553c20680994a511c7bbe3f40c9705757dd/Screenshots/Screenshot%202025-02-17%20204829.png)
+![mock up dashboard_Coffee_shop_sales](https://github.com/deblinamandal22-hub/Coffee_Shop_Sales_DataAnalysis/blob/c44e8338e33777a31acdb53de3c2d8e2adbfd4cf/Screenshots/Dashboard%20Screenshot.png)
 
-![mock up dashboard_Coffee_shop_sales](https://github.com/Yashwanth-GS/Coffee_Shop_Sales_DataAnalysis/blob/b5ce9f9512b3d7fc1008bfac67026033cd151f54/Screenshots/Screenshot%202025-02-17%20204909.png)
 
 ## **DAX Measures used in the Analysis**
 - **Average_Bill**: = SUM(Transactions[Total_bill])/COUNT(Transactions[transaction_id])
@@ -55,7 +54,7 @@ The main objective of this project is to analyze retail sales data to gain the a
 
 ## 💬 Feedback and Questions
 
-If you have any feedback or questions about the project, please feel free to ask. We appreciate your input and are here to help. You can reach out by opening an issue on GitHub or by emailing me at [yashgs97312@gmail.com].
+If you have any feedback or questions about the project, please feel free to ask. We appreciate your input and are here to help. You can reach out by opening an issue on GitHub or by emailing me at [deblinamandal.22@gmail.com].
 
 Thank you for exploring the **Coffee Shop Sales Data Analysis** Project! We hope you find it useful and informative.
 
